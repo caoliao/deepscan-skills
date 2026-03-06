@@ -17,16 +17,6 @@ A collection of Agent Skills for [Caoliao DeepScan](https://cli.im) — manage s
 
 ### Option 1: via npx skills (recommended)
 
-```bash
-npx skills add caoliao/deepscan-skills
-```
-
-Follow the prompts to select the skills you need. You can also install specific skills:
-
-```bash
-npx skills add caoliao/deepscan-skills --skill deepscan-login --skill deepscan-record
-```
-
 Install all skills at once:
 
 ```bash

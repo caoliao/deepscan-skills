@@ -17,16 +17,6 @@
 
 ### 方式一：通过 npx skills 安装（推荐）
 
-```bash
-npx skills add caoliao/deepscan-skills
-```
-
-安装后按照提示选择需要的 Skill 即可。也可以安装指定 Skill：
-
-```bash
-npx skills add caoliao/deepscan-skills --skill deepscan-login --skill deepscan-record
-```
-
 安装所有 Skills：
 
 ```bash
