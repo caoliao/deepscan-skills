@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+*.tmp
+deepscan_qr_*.png
+.venv/
+venv/
+.cursor
